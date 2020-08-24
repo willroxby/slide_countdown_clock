@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa5358e4-6f93-4e7d-a7cd-94649ac9506d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/example/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/clip_digit.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/clip_digit.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/digit.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/digit.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/slide_countdown_clock.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/slide_countdown_clock.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/slide_direction.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/slide_direction.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,21 +63,29 @@
       <option name="project" value="LOCAL" />
       <updated>1597927729163</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fixed Change State">
+      <created>1598048973120</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598048973120</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added changes to countdown" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added changes to countdown" />
+    <MESSAGE value="Fixed Change State" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed Change State" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2484" y="130" key="CommitChangelistDialog2" timestamp="1597927728245">
+    <state x="2484" y="130" key="CommitChangelistDialog2" timestamp="1598048970030">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2484" y="130" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597927728245" />
-    <state x="2472" y="249" key="Vcs.Push.Dialog.v2" timestamp="1597927730863">
+    <state x="2484" y="130" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598048970030" />
+    <state x="2472" y="249" key="Vcs.Push.Dialog.v2" timestamp="1598048976188">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597927730863" />
+    <state x="2472" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598048976188" />
   </component>
 </project>
